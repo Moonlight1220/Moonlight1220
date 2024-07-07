@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @https://anonuymus
+- 👋 Hi, I’m @Anonumus
 - 👀 I’m interested in killing bugs in code
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on anything
